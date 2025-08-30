@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className="inline-block max-w-4xl text-center">
           <span className={title({ size: "lg" })}>Florida's Premier&nbsp;</span>
-          <span className={title({ color: "primary", size: "lg" })}>
+          <span className={title({ color: "blue", size: "lg" })}>
             Pest Control&nbsp;
           </span>
           <br />
