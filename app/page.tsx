@@ -170,7 +170,7 @@ export default function Home() {
       <section className="py-16 bg-danger-50 dark:bg-danger-950 rounded-3xl">
         <div className="text-center px-8">
           <div className="text-6xl mb-4">🚨</div>
-          <h2 className={title({ color: "danger" })}>
+          <h2 className={title({ color: "blue" })}>
             24/7 Emergency Pest Control
           </h2>
           <p className={subtitle({ class: "mt-4 mb-8" })}>
@@ -259,7 +259,7 @@ export default function Home() {
       {/* CTA Section */}
       <section className="py-16 text-center bg-primary-50 dark:bg-primary-950 rounded-3xl">
         <div className="px-8">
-          <h2 className={title({ color: "primary" })}>
+          <h2 className={title({ color: "blue" })}>
             Ready to Eliminate Your Pest Problem?
           </h2>
           <p className={subtitle({ class: "mt-4 mb-8" })}>
