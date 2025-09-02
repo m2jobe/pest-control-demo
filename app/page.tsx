@@ -40,7 +40,7 @@ export default function Home() {
             radius="full"
             className="font-semibold text-lg px-8 py-6"
           >
-            📞 Call Now: (555) 123-PEST
+            📞 Call Now: (844) 841-7811
           </Button>
           <Button
             size="lg"
@@ -274,7 +274,7 @@ export default function Home() {
               className="font-bold text-xl px-10 py-8"
               radius="full"
             >
-              📞 Call (555) 123-PEST
+              📞 Call (844) 841-7811
             </Button>
             <Button
               size="lg"

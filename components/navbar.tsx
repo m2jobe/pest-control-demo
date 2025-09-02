@@ -60,7 +60,7 @@ export const Navbar = () => {
             size="sm"
             className="font-semibold"
           >
-            📞 (555) 123-PEST
+            📞 (844) 841-7811
           </Button>
         </NavbarItem>
 
@@ -98,7 +98,7 @@ export const Navbar = () => {
 
           <NavbarMenuItem className="mt-4">
             <Button color="primary" className="w-full font-semibold" size="lg">
-              📞 Call (555) 123-PEST
+              📞 Call (844) 841-7811
             </Button>
           </NavbarMenuItem>
         </div>

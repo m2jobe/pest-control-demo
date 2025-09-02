@@ -83,7 +83,7 @@ export default function RootLayout({
                     </p>
                     <div className="space-y-2 text-sm">
                       <p>📍 Serving All of Florida</p>
-                      <p>📞 24/7 Emergency: (555) 123-PEST</p>
+                      <p>📞 24/7 Emergency: (844) 841-7811</p>
                       <p>📧 info@floridapest.com</p>
                     </div>
                   </div>
